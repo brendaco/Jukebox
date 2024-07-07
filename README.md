@@ -1,6 +1,4 @@
-# jukebox23
-Get a team of two a common Github repo
+This was a project that was used for a class.
 
-Contributors: Jake Newton and Brenda Coutino
-
-Status: GUI has been modified to start fitting Iteration 2. Working on back-end to display table views.
+This project creates a simple jukebox with simple functionalities like having coins, users logins, and queues.
+This project also has a very simple GUI.
